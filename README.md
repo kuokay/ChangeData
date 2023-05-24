@@ -12,3 +12,5 @@ Support zooming, moving, real-time modification of mind maps and export to PNG a
 - 此外项目还支持将JSON,CSV,EXCEL,HTML格式数据转为MarkDown数据格式，数据的来源可以是文件，Url。
 In addition, the project also supports converting JSON, CSV, EXCEL, HTML format data to MarkDown data format, and the source of data can be a file or URL.
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/1c5e7bbc7af44bfbae75210c0d5005e8.png)
+
+项目还在持续更新中.。。。。。。
